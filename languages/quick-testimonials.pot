@@ -1,0 +1,893 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Quick Testimonials Pro\n"
+"POT-Creation-Date: 2019-02-04 16:25+0600\n"
+"PO-Revision-Date: 2019-02-04 16:25+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: quick-testimonials-pro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-quick-testimonials-admin.php:91
+msgid "Slider Title"
+msgstr ""
+
+#: admin/class-quick-testimonials-admin.php:92
+msgid "Shortcode"
+msgstr ""
+
+#: admin/class-quick-testimonials-admin.php:94
+msgid "Date"
+msgstr ""
+
+#: admin/class-quick-testimonials-admin.php:119
+msgid "Shortcode Option"
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/metabox.class.php:232
+#: admin/partials/codestar-framework/classes/options.class.php:670
+msgid "No option provided by developer."
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/metabox.class.php:250
+msgid "Restore"
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/metabox.class.php:251
+msgid "update post for restore "
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/metabox.class.php:251
+msgid "Cancel"
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/options.class.php:232
+#: admin/partials/codestar-framework/classes/options.class.php:388
+#: admin/partials/codestar-framework/functions/actions.php:43
+#: admin/partials/codestar-framework/functions/actions.php:103
+#: admin/partials/codestar-framework/functions/actions.php:125
+msgid "Error while saving."
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/options.class.php:278
+msgid "Success. Imported backup options."
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/options.class.php:300
+msgid "Default options restored."
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/options.class.php:326
+msgid "Default options restored for only this section."
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/options.class.php:384
+msgid "Settings saved."
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/options.class.php:570
+msgid "show all options"
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/options.class.php:572
+msgid "Search option(s)"
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/options.class.php:575
+#: admin/partials/codestar-framework/classes/options.class.php:694
+msgid "Save"
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/options.class.php:575
+#: admin/partials/codestar-framework/classes/options.class.php:694
+msgid "Saving..."
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/options.class.php:576
+#: admin/partials/codestar-framework/classes/options.class.php:695
+msgid "Reset Section"
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/options.class.php:577
+#: admin/partials/codestar-framework/classes/options.class.php:696
+#: admin/partials/codestar-framework/fields/backup/backup.php:34
+msgid "Reset All"
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/setup.class.php:397
+#, php-format
+msgid "Ooops! This field type (%s) can not be used here, yet."
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/setup.class.php:439
+msgid "This field class is not available!"
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/setup.class.php:443
+msgid "This type is not found!"
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/shortcoder.class.php:220
+msgid "Add one more"
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/shortcoder.class.php:257
+msgid "Security check"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:34
+msgid "No background selected"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/backup/backup.php:26
+msgid "Import"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/backup/backup.php:27
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/backup/backup.php:31
+msgid "Export and Download Backup"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/backup/backup.php:35
+msgid "Please be sure for reset all of options."
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/checkbox/checkbox.php:44
+#: admin/partials/codestar-framework/fields/radio/radio.php:43
+#: admin/partials/codestar-framework/fields/select/select.php:73
+msgid "No data provided for this option type."
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/gallery/gallery.php:20
+msgid "Add Gallery"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/gallery/gallery.php:21
+msgid "Edit Gallery"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/gallery/gallery.php:22
+msgid "Clear"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/group/group.php:23
+#: admin/partials/qt-cpt.php:16 admin/partials/qt-metabox.php:21
+msgid "Add New"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/group/group.php:109
+#: admin/partials/codestar-framework/fields/repeater/repeater.php:93
+msgid "You can not add more than"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/group/group.php:110
+#: admin/partials/codestar-framework/fields/repeater/repeater.php:94
+msgid "You can not remove less than"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/icon/icon.php:20
+#: admin/partials/codestar-framework/functions/actions.php:147
+msgid "Add Icon"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/icon/icon.php:21
+msgid "Remove Icon"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/media/media.php:23
+#: admin/partials/codestar-framework/fields/upload/upload.php:21
+msgid "Upload"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/media/media.php:24
+#: admin/partials/codestar-framework/fields/upload/upload.php:22
+msgid "Remove"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/media/media.php:46
+msgid "No media selected"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/sorter/sorter.php:21
+msgid "Enabled"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/sorter/sorter.php:22
+msgid "Disabled"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/textarea/textarea.php:37
+msgid "Add Shortcode"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:82
+msgid "Font Family"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:83
+msgid "Select a font"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:91
+msgid "Backup Font Family"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:105
+#: admin/partials/codestar-framework/fields/typography/typography.php:118
+#: admin/partials/codestar-framework/fields/typography/typography.php:131
+#: admin/partials/codestar-framework/fields/typography/typography.php:146
+#: admin/partials/codestar-framework/fields/typography/typography.php:162
+#: admin/partials/codestar-framework/fields/typography/typography.php:175
+#: admin/partials/codestar-framework/fields/typography/typography.php:189
+#: admin/partials/codestar-framework/fields/typography/typography.php:207
+#: admin/partials/qt-metabox.php:472
+msgid "Default"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:116
+msgid "Font Style"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:130
+#: admin/partials/codestar-framework/fields/typography/typography.php:131
+msgid "Load Extra Styles"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:144
+msgid "Subset"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:154
+msgid "Text Align"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:170
+msgid "Font Variant"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:183
+msgid "Text Transform"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:197
+msgid "Text Decoration"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:219
+msgid "Font Size"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:231
+msgid "Line Height"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:243
+msgid "Letter Spacing"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:255
+msgid "Word Spacing"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:269
+msgid "Font Color"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:280
+msgid "Custom Style"
+msgstr ""
+
+#: admin/partials/codestar-framework/functions/actions.php:35
+msgid "No data provided by developer"
+msgstr ""
+
+#: admin/partials/codestar-framework/functions/actions.php:151
+msgid "Search a Icon..."
+msgstr ""
+
+#: admin/partials/codestar-framework/functions/validate.php:14
+#: admin/partials/codestar-framework/functions/validate.php:86
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: admin/partials/codestar-framework/functions/validate.php:32
+#: admin/partials/codestar-framework/functions/validate.php:106
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: admin/partials/codestar-framework/functions/validate.php:50
+#: admin/partials/codestar-framework/functions/validate.php:126
+msgid "Error! This field is required!"
+msgstr ""
+
+#: admin/partials/codestar-framework/functions/validate.php:68
+#: admin/partials/codestar-framework/functions/validate.php:146
+msgid "Please write a valid url!"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:7
+msgctxt "Post Type General Name"
+msgid "Testimonials"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:8
+msgctxt "Post Type Singular Name"
+msgid "Testimonial"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:9
+msgctxt "Admin Menu text"
+msgid "Testimonials"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:10
+msgctxt "Add New on Toolbar"
+msgid "Testimonial"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:11
+msgid "Testimonial Archives"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:12
+msgid "Testimonial Attributes"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:13
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:14
+msgid "All Testimonials"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:15
+msgid "Add New Testimonial"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:17
+msgid "New Testimonial"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:18
+msgid "Edit Testimonial"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:19
+msgid "Update Testimonial"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:20
+msgid "View Testimonial"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:21
+msgid "View Testimonials"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:22
+msgid "Search Testimonial"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:23
+msgid "Not found"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:24
+msgid "Not found in Trash"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:25
+msgid "Featured Image"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:26
+msgid "Set featured image"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:27
+msgid "Remove featured image"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:28
+msgid "Use as featured image"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:29
+msgid "Insert into Testimonial"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:30
+msgid "Uploaded to this Testimonial"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:31
+msgid "Testimonials list"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:32
+msgid "Testimonials list navigation"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:33
+msgid "Filter Testimonials list"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:36
+msgid "Testimonial"
+msgstr ""
+
+#: admin/partials/qt-cpt.php:37
+msgid ""
+"This is Quick Testimonials settings page. This is the part which will load "
+"on frontend"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:8 admin/partials/qt-metabox.php:15
+msgid "Testimonial Content"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:20
+msgid "Reviewers Content Group"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:26
+msgid "Reviewer Name"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:31
+msgid "Reviewer Image"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:32
+msgid ""
+"Upload a square dimension imange to show perfectly exp 200x200 or 500x500 "
+"etc."
+msgstr ""
+
+#: admin/partials/qt-metabox.php:41
+msgid "Reviewer Designation"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:46
+msgid "Reviewer Quote"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:55
+msgid "Reviewer Rating"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:57
+msgid "1 Star"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:58
+msgid "2 Star"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:59
+msgid "3 Star"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:60
+msgid "4 Star"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:61
+msgid "5 Star"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:72
+msgid "Testimonial Settings"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:78
+msgid "General Settings"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:84
+msgid "Testimonial Style"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:87
+msgid "Grid"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:88
+msgid "Slider"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:89
+msgid "List"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:96
+msgid "Grid Column"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:98
+msgid "2 Column"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:99
+msgid "3 Column"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:110
+msgid "Default Style"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:111 admin/partials/qt-metabox.php:124
+#: admin/partials/qt-metabox.php:143 admin/partials/qt-metabox.php:158
+#: admin/partials/qt-metabox.php:535
+msgid "Style 1"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:112 admin/partials/qt-metabox.php:125
+#: admin/partials/qt-metabox.php:144 admin/partials/qt-metabox.php:159
+#: admin/partials/qt-metabox.php:536
+msgid "Style 2"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:113 admin/partials/qt-metabox.php:126
+#: admin/partials/qt-metabox.php:145 admin/partials/qt-metabox.php:160
+#: admin/partials/qt-metabox.php:537
+msgid "Style 3"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:114 admin/partials/qt-metabox.php:127
+#: admin/partials/qt-metabox.php:146 admin/partials/qt-metabox.php:538
+msgid "Style 4"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:128 admin/partials/qt-metabox.php:147
+msgid "Style 5"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:129
+msgid "Style 6"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:130
+msgid "Style 7"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:131
+msgid "2 Column Grid Slider"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:132
+msgid "3 Column Grid Slider"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:172 admin/partials/qt-metabox.php:214
+#: admin/partials/qt-metabox.php:256 admin/partials/qt-metabox.php:473
+msgid "Top Left"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:173 admin/partials/qt-metabox.php:215
+#: admin/partials/qt-metabox.php:257 admin/partials/qt-metabox.php:474
+msgid "Top Center"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:174 admin/partials/qt-metabox.php:216
+#: admin/partials/qt-metabox.php:258
+msgid "Top Right"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:175 admin/partials/qt-metabox.php:217
+#: admin/partials/qt-metabox.php:259 admin/partials/qt-metabox.php:476
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:176 admin/partials/qt-metabox.php:218
+#: admin/partials/qt-metabox.php:260 admin/partials/qt-metabox.php:477
+msgid "Bottom Center"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:177 admin/partials/qt-metabox.php:219
+#: admin/partials/qt-metabox.php:261
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:188 admin/partials/qt-metabox.php:201
+#: admin/partials/qt-metabox.php:230 admin/partials/qt-metabox.php:243
+#: admin/partials/qt-metabox.php:272 admin/partials/qt-metabox.php:285
+msgid "Before Quote"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:189 admin/partials/qt-metabox.php:202
+#: admin/partials/qt-metabox.php:231 admin/partials/qt-metabox.php:244
+#: admin/partials/qt-metabox.php:273 admin/partials/qt-metabox.php:286
+msgid "After Quote"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:200 admin/partials/qt-metabox.php:242
+#: admin/partials/qt-metabox.php:284
+msgid "After Image"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:296
+msgid "Stylization"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:302
+msgid "Content Alignment"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:304 admin/partials/qt-metabox.php:548
+msgid "Left"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:305 admin/partials/qt-metabox.php:549
+msgid "Center"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:306 admin/partials/qt-metabox.php:550
+msgid "Right"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:313
+msgid "Image"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:314
+msgid "Show/hide reviewer image"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:315
+msgid "This option will not work for slider style 1, 2 & 3"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:321
+msgid "Image Style"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:323
+msgid "Square"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:324
+msgid "Circle"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:332
+msgid "Name"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:333
+msgid "Show/hide reviewer name"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:337
+msgid "Title Color"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:346
+msgid "Designation"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:347
+msgid "Show/hide reviewer designation"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:351
+msgid "Designation Color"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:360
+msgid "Quote"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:361
+msgid "Show/hide reviewer quote"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:365
+msgid "Quote Text Color"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:374
+msgid "Quote Icon"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:375
+msgid "Show/hide quote icon"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:379
+msgid "Quote Icon Color"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:386
+msgid "Icon Left Color"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:387 admin/partials/qt-metabox.php:394
+msgid "This option will work only for slider style 7"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:393
+msgid "Icon Right Color"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:402
+msgid "Rating"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:403
+msgid "Show/hide reviewer rating"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:407
+msgid "Star Rating Color"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:414
+msgid "Testimonial Wrapper Background Color"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:423
+msgid "Slider Settings"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:429
+msgid ""
+"Warning! This section will work only if slider option is available only."
+msgstr ""
+
+#: admin/partials/qt-metabox.php:433
+msgid "Navigation Settings (will not work for slider style 1, 2 & 3)"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:438
+msgid "Navigation"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:439
+msgid "Show/hide navigation"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:445
+msgid "Choose a style"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:446
+msgid "Choose a slider navigation style."
+msgstr ""
+
+#: admin/partials/qt-metabox.php:475
+msgid "Top right"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:478
+msgid "Bottom right"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:484
+msgid "Arrow Color"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:490
+msgid "Arrow Hover Color"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:496
+msgid "Arrow Background Color"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:502
+msgid "Arrow Background Hover Color"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:508
+msgid "Arrow Border Color"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:514
+msgid "Arrow Border Hover Color"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:521
+msgid "Dot Settings (will not work for slider style 1, 2, 3 & 4)"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:526
+msgid "Dots"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:527
+msgid "Show/hide dot"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:556
+msgid "Dots Background Color"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:562
+msgid "Dots Background Active Color"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:568
+msgid "Dots Border Color"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:574
+msgid "Dots Border Active Color"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:583
+msgid "Typography Settings"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:589
+msgid "Name Field"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:598
+msgid "Position Field"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:607
+msgid "Content Field"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:617
+msgid "Custom Styling"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:623
+msgid "Extra class Name"
+msgstr ""
+
+#: admin/partials/qt-metabox.php:624
+msgid ""
+"Declare an extra global class name which will show as the parent div class."
+msgstr ""
+
+#: admin/partials/qt-metabox.php:629
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/partials/quick-testimonials-admin-display.php:20
+msgid "Copy and paste below shortcode into your posts or pages"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Quick Testimonials Pro"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://plugins.themeregion.com/quick-testimonials/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Pro version of quick testimonials plugin. Best testimonial plugin for "
+"WordPress. It's an easy to use plugin by which you can easily build & "
+"customize your desired testimonials with ease."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeRegion"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeregion.com"
+msgstr ""
